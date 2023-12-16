@@ -1,3 +1,26 @@
+# React Cart Project with Chart and Fashion Days
+
+Welcome to the React Cart Project! This project showcases a simple shopping cart application with additional features such as a dynamic chart and a fashion product display.
+
+## Features
+
+- **Shopping Cart:** Explore a variety of fashion products and add them to your cart.
+- **Dynamic Chart:** Visualize customer feedback through an interactive chart.
+- **SMS Gateway for Twilio:** SMS Gateway for order notifications.
+- **Fashion Days Display:** Browse through a curated list of fashion products.
+
+## Project Structure
+
+The project is organized as follows:
+
+- **src/components:** Contains reusable React components.
+- **src/pages:** Includes individual pages for different sections of the application.
+- **mock:** Houses mock data for products and chart information.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
